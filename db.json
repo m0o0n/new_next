@@ -1,0 +1,369 @@
+{
+  "cities": [
+    {
+      "id": 0,
+      "name": "Kiev",
+      "streets": [
+        "Улица Ивана Франко",
+        "Улица Владимирская",
+        "Улица Терещенковская",
+        "Улица Пушкинская",
+        "Улица Ярославов вал",
+        "Улица Льва Толстого",
+        "Улица Софиевская"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Dnipro",
+      "streets": [
+        "бульвар Вячеслава Черновола",
+        "бульвар Европейский",
+        "бульвар Екатеринославский",
+        "бульвар Звёздный",
+        "бульвар Зоряный",
+        "Авиационная улица",
+        "Автодорожна улица",
+        "Бестужева улица",
+        "Василия Сидоренко улица",
+        "Виборзька улица"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Odessa",
+      "streets": [
+        "Улица Большая Арнаутская",
+        "Улица Малая Арнаутская",
+        "Улица Польская",
+        "Улица Ришельевская",
+        "Улица Преображенская",
+        "Улица Белинского",
+        "Улица Дерибасовская",
+        "Улица Академіка Вільямса",
+        "Улица Академіка Глушка",
+        "Улица Балківська"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kharkiv",
+      "streets": [
+        "Улица Гвардеевцев Ширононцев",
+        "Улица Сумская",
+        "Улица Героев Харькова",
+        "Улица Ришельевская",
+        "Улица Данилевского ",
+        "Улица Академика павлова",
+        "Улица Натальии Ужвий",
+        "Улица Метростроителей",
+        "Улица Лысенко",
+        "Улица Валентиновская"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lviv",
+      "streets": [
+        "Улица Пекарская",
+        "Улица Армянская",
+        "Улица Высокий замок",
+        "Улица Богдана Хмельницкого",
+        "Улица Подвальная",
+        "Улица Краковская",
+        "Улица Генерала Чупринки",
+        "Улица Академика Филатова",
+        "Улица Александра Кониского",
+        "Улица Антонича"
+      ]
+    }
+  ],
+  "language": {
+    "ru": {
+      "catalog": [
+        {
+          "id": 0,
+          "name": "Тракторы",
+          "categories": [{ "id": 7, "name": "Все тракторы" }]
+        },
+        {
+          "id": 1,
+          "name": "Сбор урожая",
+          "categories": [
+            { "id": 0, "name": "Пресс-подборщики" },
+            { "id": 1, "name": "Обмотчики тюков" },
+            { "id": 2, "name": "Комбайны" },
+            { "id": 3, "name": "Самоходные кормоуборочные комбайны" },
+            { "id": 4, "name": "Свеклоуборочная техника" },
+            { "id": 5, "name": "Косилки" },
+            { "id": 6, "name": "Картофелеуборочные комбайны" }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": 0,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 5
+        },
+        {
+          "id": 1,
+          "name": "John Deere 382",
+          "cost": "14.500$",
+          "year": "2014",
+          "categoryID": 5
+        },
+        {
+          "id": 2,
+          "name": "John Deere 383",
+          "cost": "28.700$",
+          "year": "2020",
+          "categoryID": 5
+        },
+        {
+          "id": 3,
+          "name": "John Deere 481",
+          "cost": "22.900$",
+          "year": "2012",
+          "categoryID": 0
+        },
+        {
+          "id": 4,
+          "name": "John Deere 9181",
+          "cost": "38.400$",
+          "year": "2011",
+          "categoryID": 0
+        },
+        {
+          "id": 5,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 1
+        },
+        {
+          "id": 6,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 1
+        },
+        {
+          "id": 7,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 2
+        },
+        {
+          "id": 8,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 2
+        },
+        {
+          "id": 9,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 3
+        },
+        {
+          "id": 10,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 3
+        },
+        {
+          "id": 11,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 4
+        },
+        {
+          "id": 12,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 4
+        },
+        {
+          "id": 13,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 6
+        },
+        {
+          "id": 14,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 6
+        },
+        {
+          "id": 15,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 7
+        },
+        {
+          "id": 16,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 7
+        }
+      ]
+    },
+    "en": {
+      "catalog": [
+        {
+          "id": 0,
+          "name": "Tractors",
+          "categories": [{ "id": 7, "name": "All tractors" }]
+        },
+        {
+          "id": 1,
+          "name": "Harvesting",
+          "categories": [
+            { "id": 0, "name": "Balers" },
+            { "id": 1, "name": "Bale wrappers" },
+            { "id": 2, "name": "Combine harvesters" },
+            { "id": 3, "name": "Self propelled forage harvesters" },
+            { "id": 4, "name": "Beet harvesting equipments" },
+            { "id": 5, "name": "Mowers" },
+            { "id": 6, "name": "Potato harvesters" }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "id": 0,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 5
+        },
+        {
+          "id": 1,
+          "name": "John Deere 382",
+          "cost": "14.500$",
+          "year": "2014",
+          "categoryID": 5
+        },
+        {
+          "id": 2,
+          "name": "John Deere 383",
+          "cost": "28.700$",
+          "year": "2020",
+          "categoryID": 5
+        },
+        {
+          "id": 3,
+          "name": "John Deere 481",
+          "cost": "22.900$",
+          "year": "2012",
+          "categoryID": 0
+        },
+        {
+          "id": 4,
+          "name": "John Deere 9181",
+          "cost": "38.400$",
+          "year": "2011",
+          "categoryID": 0
+        },
+        {
+          "id": 5,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 1
+        },
+        {
+          "id": 6,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 1
+        },
+        {
+          "id": 7,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 2
+        },
+        {
+          "id": 8,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 2
+        },
+        {
+          "id": 9,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 3
+        },
+        {
+          "id": 10,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 3
+        },
+        {
+          "id": 11,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 4
+        },
+        {
+          "id": 12,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 4
+        },
+        {
+          "id": 13,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 6
+        },
+        {
+          "id": 14,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 6
+        },
+        {
+          "id": 15,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 7
+        },
+        {
+          "id": 16,
+          "name": "John Deere 381",
+          "cost": "31.900$",
+          "year": "2004",
+          "categoryID": 7
+        }
+      ]
+    }
+  }
+}
